@@ -4,7 +4,7 @@
 
 👀 Estou interessado em conhecimentos e habilidades
 
-🌱 Atualmente estou aprendendo HTML5, CSS3 e JavaScript
+🌱 Atualmente estou aprendendo HTML5, CSS3, JavaScript e MySql
 
 💞️ Procuro colaborar no desenvolvimento
 
