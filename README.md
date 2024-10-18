@@ -1,6 +1,6 @@
 ## Olá pessoal! 👋
 
-👋 Olá, sou Jhonatan
+👋 Olá pessoal, me chamo Jhonatan.
 
 👀 Estou interessado em conhecimentos e habilidades
 
